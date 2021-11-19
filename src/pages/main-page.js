@@ -4,7 +4,7 @@ import Popup from "../components/popup/popup";
 
 export const MainPage = () => {
 
-    const [isOpen,setIsOpen] = useState(true);
+    const [isOpen,setIsOpen] = useState(false);
     const handleOpenPopup = () => {
         setIsOpen(true);
     };
