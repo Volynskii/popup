@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3201b402-eb4b-43af-92c0-01988a3cb9c6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1uTdYZOGNUIHa2asU8ivPM9DYok" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/../server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.start (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3201b402-eb4b-43af-92c0-01988a3cb9c6" name="Default Changelist" comment="" />
+      <created>1624693560023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624693560023</updated>
+      <workItem from="1624693561153" duration="18040000" />
+      <workItem from="1624773026155" duration="25822000" />
+      <workItem from="1624852871443" duration="11403000" />
+      <workItem from="1624868534131" duration="4826000" />
+      <workItem from="1624886323610" duration="1615000" />
+      <workItem from="1624888387389" duration="838000" />
+      <workItem from="1624891382203" duration="6923000" />
+      <workItem from="1624906055373" duration="1750000" />
+      <workItem from="1624943492018" duration="39057000" />
+      <workItem from="1625025098841" duration="27667000" />
+      <workItem from="1625102811409" duration="32112000" />
+      <workItem from="1625148904688" duration="7791000" />
+      <workItem from="1625194664709" duration="34021000" />
+      <workItem from="1625240260352" duration="8973000" />
+      <workItem from="1625276963251" duration="10249000" />
+      <workItem from="1625288176373" duration="391000" />
+      <workItem from="1625292663865" duration="19452000" />
+      <workItem from="1625465752007" duration="4257000" />
+      <workItem from="1625578511341" duration="14000" />
+      <workItem from="1625645286205" duration="7048000" />
+      <workItem from="1625929199906" duration="730000" />
+      <workItem from="1625997740720" duration="5478000" />
+      <workItem from="1626094390932" duration="7244000" />
+      <workItem from="1626156063955" duration="4925000" />
+      <workItem from="1629616204769" duration="159000" />
+      <workItem from="1631004618984" duration="783000" />
+      <workItem from="1636896368634" duration="476000" />
+      <workItem from="1636896870118" duration="389000" />
+      <workItem from="1636897283478" duration="9853000" />
+      <workItem from="1636962114067" duration="16222000" />
+      <workItem from="1637049837237" duration="10786000" />
+      <workItem from="1637065162730" duration="593000" />
+      <workItem from="1637135047749" duration="382000" />
+      <workItem from="1637135560090" duration="25689000" />
+      <workItem from="1637218176999" duration="33000" />
+      <workItem from="1637242138140" duration="6039000" />
+      <workItem from="1637298094340" duration="487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
