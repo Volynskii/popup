@@ -74,6 +74,11 @@ const Popup = ({handleClosePopup}) => {
                     <span onClick={() => handleChangePayments(salary)}
                         className="popup__calculate-button">Рассчитать</span>
 
+                    {allPayments.length > 0 && (
+                        <span className="popup__payments__title">Итого
+                        можете внести в качестве досрочных:</span>
+                    )}
+
                     <article className="popup__payments">
                         {allPayments.map((item, index) => {
                             const endOfItemName = () => {
@@ -91,7 +96,7 @@ const Popup = ({handleClosePopup}) => {
                                             id={`subscribeNews${index}`}
                                            name="subscribe"
                                            value="newsletter"/>
-                                    <label htmlFor={`subscribeNews${index}`}>{item} рублей
+                                    <label htmlFor={`subscribeNews${index}`}>{NumberWithSpaces(item)} рублей
                                         в {index + 1}-{endOfItemName()} год</label>
                                 </div>
                             )
@@ -107,8 +112,12 @@ const Popup = ({handleClosePopup}) => {
                             <span className="popup__filter-buttons__button">Срок</span>
                         </div>
                     </article>
+
+
                     <button onClick={() => handleChangePayments(salary)}
-                            className="popup__add-button">Добавить
+                            className={cx(`popup__add-button`, {
+                                [`add-btn-mrgn`]: allPayments.length > 0
+                            })}>Добавить
                     </button>
                 </div>
             </article>
